@@ -3,7 +3,7 @@
 Final-year Computer Science student interested in **blockchain technology, applied cryptography, and security**. I enjoy understanding systems from first principles and building practical applications with them.
 
 <p align="center">
-  <img src="./prof.png" width="250" alt="Blockchain and Cryptography" />
+  <img src="./prof.png" width="200" alt="Saqib Jamal" />
 </p>
 
 ## Currently Building
