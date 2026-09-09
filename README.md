@@ -2,6 +2,10 @@
 
 Final-year Computer Science student interested in **blockchain technology, applied cryptography, and security**. I enjoy understanding systems from first principles and building practical applications with them.
 
+<p align="center">
+  <img src="./prof.png" width="250" alt="Blockchain and Cryptography" />
+</p>
+
 ## Currently Building
 
 ### [Degree Verification System](https://attestchain.vercel.app)
