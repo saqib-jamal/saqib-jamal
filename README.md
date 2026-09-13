@@ -43,6 +43,6 @@ Decentralized Applications · Applied Cryptography · Blockchain Security
 
 ## 🔗 Elsewhere
 
-🌐 Portfolio: [portfolio-two-puce-n350kje7l7.vercel.app](https://portfolio-two-puce-n350kje7l7.vercel.app)
+🌐 Portfolio: [portfolio-two-puce-n350kje7l7.vercel.app](https://portfolio-jamal-hash-grid.vercel.app/)
 
 💼 LinkedIn: [saqib-jamal](https://www.linkedin.com/in/saqib-jamal-8b5261274)
